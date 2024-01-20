@@ -1,0 +1,27 @@
+/* Destinations.css */
+
+.destinations {
+    padding: 50px;
+  }
+  
+  .place-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .place-card {
+    width: 28%;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 30px;
+  }
+  
+  .place-image {
+    width: 350px;
+    height: 250px;
+    border-radius: 10px;
+    /* object-fit: cover; */
+  }

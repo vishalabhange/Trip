@@ -1,0 +1,36 @@
+/* TripDetails.css */
+
+.trip-details-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #fff;
+  }
+  
+  .trip-details-title {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .trip-details-location {
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  
+  .trip-details-age {
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  
+  .trip-details-date-time {
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  
+  .trip-details-message-icon {
+    margin-top: 10px;
+    font-size: 24px;
+    color: #007bff; /* Change the color as needed */
+  }
+  
